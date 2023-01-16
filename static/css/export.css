@@ -1,0 +1,1 @@
+@import url('https://rcvd.github.io/logseq-bear-theme/bear.css');
